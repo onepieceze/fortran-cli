@@ -1,0 +1,18 @@
+[submodule "lib/container"]
+	path = lib/container
+	url = https://github.com/dongli/fortran-container.git
+[submodule "lib/string"]
+	path = lib/string
+	url = https://github.com/dongli/fortran-string.git
+[submodule "fortran-container"]
+	path = fortran-container
+	url = https://github.com/dongli/fortran-container.git
+[submodule "src/fortran-container"]
+	path = src/fortran-container
+	url = https://github.com/dongli/fortran-container.git
+[submodule "lib/fortran-container"]
+	path = lib/fortran-container
+	url = https://github.com/dongli/fortran-container.git
+[submodule "lib/fortran-string"]
+	path = lib/fortran-string
+	url = https://github.com/dongli/fortran-string.git
