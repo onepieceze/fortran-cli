@@ -1,5 +1,5 @@
 module cli
 
-  use cli_mod
+  use cli_type_mod
 
 end module

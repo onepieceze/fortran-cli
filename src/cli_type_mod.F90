@@ -1,4 +1,4 @@
-module cli_mod
+module cli_type_mod
 
   use string
   use parse_arg_mod
@@ -480,4 +480,4 @@ contains
 
   end subroutine
 
-end module cli_mod
+end module cli_type_mod
